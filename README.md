@@ -1,31 +1,35 @@
+# Raúl Salazar
 
-# Hola, soy Raúl Salazar 👋
+Ingeniero electrónico y desarrollador de software. Barranquilla, Colombia.
 
+Trabajo principalmente en **PHP/Laravel** y **JavaScript/Node.js**, construyendo plataformas SaaS de
+atención al cliente: motores de flujos conversacionales, integración de canales (WhatsApp, voz y web)
+y modelos de lenguaje aplicados a la conversación.
 
-Soy un desarrollador web fullstack apasionado por crear soluciones innovadoras y eficientes para la web. Me gusta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
+## Proyectos
 
-## Mis habilidades 🚀
+**[macro-llm-php](https://github.com/raulast/macro-llm-php)** — Cliente de IA agnóstico de proveedor
+para PHP. Extiende el cliente HTTP de Laravel mediante macros y soporta OpenAI, Anthropic, Gemini,
+Groq, OpenRouter, Ollama y llama.cpp, con tool calling, agentes y orquestación multi-agente.
 
-### Backend
+**[research-fruits-articles](https://github.com/raulast/research-fruits-articles)** — Aplicación de
+escritorio (`dcript`) para el análisis de artículos científicos sobre bioactivos de frutas. Python.
 
-- PHP con Laravel
-- Python con Django
-- JavaScript con Node.js
+**[rsvp](https://github.com/raulast/rsvp)** — Sistema para gestionar invitaciones. Go.
 
-### Frontend
+**ContextChatbot** — Motor de flujos conversacionales por contexto para Laravel 10 a 13, con
+definición de flujos por contexto y suite de pruebas automatizadas. Repositorio privado por ahora.
 
-- Vue.js
-- React.js
-- HTML, CSS y Bootstrap
+## Con qué trabajo
 
-### Otros
+- **Lenguajes:** PHP, JavaScript/TypeScript, Go, Python, SQL
+- **Backend:** Laravel, Node.js, APIs REST, WebSockets
+- **Bases de datos:** MySQL, SQLite, NoSQL
+- **Infraestructura:** Docker, Ubuntu/VPS, CI/CD, Git
+- **IA:** AWS Bedrock, Anthropic Claude, APIs compatibles con OpenAI
+- **Telecom e IoT:** Asterisk PBX/SIP, WhatsApp Business API, sensores y telemetría
 
-- Docker
-- Git y GitHub
-- Bases de datos SQL y NoSQL
+## Contacto
 
-## Lo que estoy aprendiendo 📚
-
-- Flutter
-- Go
-
+- Correo: [raulast.dev@gmail.com](mailto:raulast.dev@gmail.com)
+- LinkedIn: [linkedin.com/in/raulast](https://linkedin.com/in/raulast)
